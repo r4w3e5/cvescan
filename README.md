@@ -4,7 +4,7 @@
 1. Install requirements:
 
 ```
-sudo update && sudo apt install make nmap docker.io wkhtmltopdf python3 -y
+sudo apt update && sudo apt install make nmap docker.io wkhtmltopdf python3 -y
 ```
 
 2. Usage:
