@@ -1,3 +1,5 @@
+![изображение](https://user-images.githubusercontent.com/37213906/171910667-26869de9-3a05-4219-8fb1-d5b4a823d2f8.png)
+
 # cvescan
 ### Network vulnerability scanner
 
@@ -42,4 +44,4 @@ sudo ./CVESCAN_GUI
 
 ### Example:
 
-![alt text](https://user-images.githubusercontent.com/37213906/171044652-25efb263-d5d6-459d-9d7c-40b13ac23551.png)
+![изображение](https://user-images.githubusercontent.com/37213906/171044652-25efb263-d5d6-459d-9d7c-40b13ac23551.png)
