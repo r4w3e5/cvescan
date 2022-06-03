@@ -39,7 +39,7 @@ sudo ./CVESCAN_GUI
 ```
 
 
-#### The scan result is saved in the directory /var/log/cvescan/
+#### The scan result is saved in pdf format in the /var/log/cvescan/ directory
 
 
 ### Example:
