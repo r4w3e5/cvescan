@@ -25,6 +25,7 @@ sudo ./cvescan
 ```
 v.1.0.8 GUI
 
+Use terminal:
 ```
 sudo chmod +x CVESCAN_GUI
 ```
