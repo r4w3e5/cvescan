@@ -3,17 +3,38 @@
 
 1. Install requirements:
 
+v.1.0.7
 ```
 sudo apt update && sudo apt install make nmap docker.io wkhtmltopdf python3 -y
 ```
+v.1.0.8 GUI
+```
+sudo apt update && sudo apt install make nmap docker.io wkhtmltopdf python3 zenity shc -y
+```
 
 2. Usage:
+
+v.1.0.7
+
+Use terminal:
 ```
 sudo chmod +x cvescan
 ```
 ```
 sudo ./cvescan
 ```
+v.1.0.8 GUI
+
+```
+sudo chmod +x CVESCAN_GUI
+```
+
+Double click or use terminal:
+
+```
+sudo ./CVESCAN_GUI
+```
+
 
 #### The scan result is saved in the directory /var/log/cvescan/
 
