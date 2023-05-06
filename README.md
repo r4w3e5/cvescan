@@ -7,7 +7,7 @@
 1. Install requirements:
 
 ```
-sudo apt update && sudo apt install zenity nmap fonts-lato traceroute wkhtmltopdf python3 python3-xmltodict python3-boto3 python3-jinja2 python3-markupsafe shc apache2 -y
+sudo apt update && sudo apt install zenity nmap fonts-lato wkhtmltopdf python3 python3-xmltodict python3-boto3 python3-jinja2 python3-markupsafe apache2 -y
 ```
 
 2. Usage:
